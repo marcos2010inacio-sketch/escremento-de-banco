@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BANCO\\x64\\Debug\\BANCO.obj",
+            "outputs": [
+                "BANCO\\x64\\Debug\\BANCO.cpp.obj.dt.module.json",
+                "BANCO\\x64\\Debug\\BANCO.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
